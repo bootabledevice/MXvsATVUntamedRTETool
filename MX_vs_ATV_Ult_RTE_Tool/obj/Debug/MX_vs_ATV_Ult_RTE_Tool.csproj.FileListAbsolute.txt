@@ -1,0 +1,13 @@
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.Form1.resources
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.Properties.Resources.resources
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.csproj.GenerateResource.cache
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MX_vs_ATV_Ult_RTE_Tool.exe.config
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MX_vs_ATV_Ult_RTE_Tool.exe
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MX_vs_ATV_Ult_RTE_Tool.pdb
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MetroFramework.dll
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.csproj.CopyComplete
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.exe
+C:\Users\Tim\source\repos\MX_vs_ATV_Ult_RTE_Tool\MX_vs_ATV_Ult_RTE_Tool\obj\Debug\MX_vs_ATV_Ult_RTE_Tool.pdb
